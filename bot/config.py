@@ -9,11 +9,11 @@ dirName = os.path.basename(dirPath)
 
 
 class TG_CONFIG:
-    api_id = 
+    api_id = 29810282
 
-    api_hash = ""
+    api_hash = "57fd4a75c66f6fcf790acefceb50bbfb"
 
-    bot_token = ""
+    bot_token = "7213665140:AAEVapCF_lAD0SJb8dzpcFHiDRL74E9W4dI"
 
     #DEVS or #OWNERS
     sudo_users = [1984763765, 6360672597]
